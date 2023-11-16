@@ -1,0 +1,203 @@
+body {
+    font-family: sans-serif;
+}
+
+nav {
+    justify-content: space-between;
+    display: flex;
+    background-color: #E6E9F5;
+}
+
+nav a {
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-size: 20px;
+    text-decoration: none;
+    margin-right: 10px;
+    margin-left: 10px;
+
+}
+
+.menu {
+    text-align: center;
+    color: rgba(39, 9, 73, 1);
+}
+
+.osnovne {
+    color: rgba(249, 91, 61, 1);
+}
+
+.napoi {
+    color: rgba(249, 91, 61, 1);
+}
+
+.about {
+    margin: 40px;
+}
+
+.sales {
+    margin: 40px;
+}
+
+.foto {
+    margin: 40px;
+}
+
+.maps {
+    text-align: center;
+}
+
+.food1 {
+    justify-content: space-between;
+    display: flex;
+}
+
+.corndog {
+    border: 2px rgba(249, 91, 61, 1) solid;
+    width: 40%;
+    height: 50%;
+    text-align: center;
+    padding: 1%;
+    margin: 10px;
+    padding: 1%;
+    border-radius: 15px;
+}
+
+
+
+
+.rice {
+    border: 2px rgba(249, 91, 61, 1) solid;
+    width: 40%;
+    height: 50%;
+    text-align: center;
+    margin: 10px;
+    padding: 1%;
+    border-radius: 15px;
+}
+
+.food2 {
+    justify-content: space-between;
+    display: flex;
+}
+
+.ramen {
+    border: 2px rgba(249, 91, 61, 1) solid;
+    width: 40%;
+    height: 50%;
+    text-align: center;
+    padding: 1%;
+    margin: 10px;
+    border-radius: 15px;
+}
+
+
+.kimpab {
+    border: 2px rgba(249, 91, 61, 1) solid;
+    width: 40%;
+    height: 50%;
+    text-align: center;
+    margin: 10px;
+    padding: 1%;
+    border-radius: 15px;
+}
+
+.food3 {
+    justify-content: space-between;
+    display: flex;
+}
+
+.tokpoki {
+    border: 2px rgba(249, 91, 61, 1) solid;
+    width: 40%;
+    height: 50%;
+    text-align: center;
+    padding: 1%;
+    margin: 10px;
+    border-radius: 15px;
+}
+
+
+.udon {
+    border: 2px rgba(249, 91, 61, 1) solid;
+    width: 40%;
+    height: 50%;
+    text-align: center;
+    margin: 10px;
+    padding: 1%;
+    border-radius: 15px;
+}
+
+.drinks1 {
+    justify-content: space-between;
+    display: flex;
+}
+
+.matcha {
+    border: 2px rgba(249, 91, 61, 1) solid;
+    width: 40%;
+    height: 50%;
+    text-align: center;
+    padding: 1%;
+    margin: 10px;
+    border-radius: 15px;
+}
+
+
+.bubletea {
+    border: 2px rgba(249, 91, 61, 1) solid;
+    width: 40%;
+    height: 50%;
+    text-align: center;
+    margin: 10px;
+    padding: 1%;
+    border-radius: 15px;
+}
+
+.drinks2 {
+    justify-content: space-between;
+    display: flex;
+}
+
+.latte {
+    border: 2px rgba(249, 91, 61, 1) solid;
+    width: 40%;
+    height: 50%;
+    text-align: center;
+    padding: 1%;
+    margin: 10px;
+    border-radius: 15px;
+}
+
+
+.moxito {
+    border: 2px rgba(249, 91, 61, 1) solid;
+    width: 40%;
+    height: 50%;
+    text-align: center;
+    margin: 10px;
+    padding: 1%;
+    border-radius: 15px;
+}
+
+
+footer {
+    background-color: #4654A3;
+}
+
+.footer1 {
+    justify-content: space-between;
+    display: flex;
+    padding: 2%;
+}
+
+.social {
+    float: left;
+}
+
+.time {
+
+}
+
+.phone {
+   }
